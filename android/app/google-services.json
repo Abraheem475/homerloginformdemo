@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020446679828",
+    "project_id": "list-tile",
+    "storage_bucket": "list-tile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020446679828:android:99b772b507b79c62fa9801",
+        "android_client_info": {
+          "package_name": "com.example.homer_login_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRWmHI03-aA-Tnt6LONibqTb429ybmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
